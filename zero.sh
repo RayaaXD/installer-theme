@@ -137,7 +137,7 @@ read -p "PILIH OPSI (1-16): " OPTION
 case "$OPTION" in
     1)
         # Masukkan token GitHub langsung di sini
-        GITHUB_TOKEN="_"
+        GITHUB_TOKEN="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"
 
         # Clone repositori menggunakan token
         REPO_URL="https://github.com/RayaaXD/installer-theme.git"
@@ -176,7 +176,7 @@ case "$OPTION" in
         ;;
     4)
         # Masukkan token GitHub langsung di sini
-        GITHUB_TOKEN="_"
+        GITHUB_TOKEN="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"
 
         # Clone repositori menggunakan token
         REPO_URL="https://github.com/RayaaXD/installer-theme.git"
@@ -222,7 +222,7 @@ if [ ! -f "$BLUEPRINT_FILE" ]; then
 fi
 
 # Masukkan token GitHub langsung di sini
-    GITHUB_TOKEN="_"
+    GITHUB_TOKEN="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"
 
     # Clone repositori menggunakan token
     REPO_URL="https://github.com/RayaaXD/installer-theme.git"
@@ -247,7 +247,7 @@ if [ ! -f "$BLUEPRINT_FILE" ]; then
     exit 1
 fi
 # Masukkan token GitHub langsung di sini
-    GITHUB_TOKEN="_"
+    GITHUB_TOKEN="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"
 
     # Clone repositori menggunakan token
     REPO_URL="https://github.com/RayaaXD/installer-theme.git"
@@ -303,7 +303,7 @@ cd /var/www/pterodactyl
 yarn
 cd /var/www/
 # Masukkan token GitHub langsung di sini
-GITHUB_TOKEN="_"
+GITHUB_TOKEN="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"
 
 # Clone repositori menggunakan token
 REPO_URL="https://github.com/RayaaXD/installer-theme.git"
@@ -486,7 +486,7 @@ fi
  ;;
     5)
      # Masukkan token GitHub langsung di sini
-        GITHUB_TOKEN="_"
+        GITHUB_TOKEN="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"
 
         # Clone repositori menggunakan token
         REPO_URL="https://github.com/RayaaXD/installer-theme.git"
@@ -549,7 +549,7 @@ if [ ! -f "$BLUEPRINT_FILE" ]; then
 fi
 
 # Masukkan token GitHub langsung di sini
-GITHUB_TOKEN="_"
+GITHUB_TOKEN="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"
 
 # Clone repositori menggunakan token
 REPO_URL="https://github.com/RayaaXD/installer-theme.git"
